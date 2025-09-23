@@ -57,6 +57,25 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Premium glass morphism colors
+        glass: {
+          surface: "var(--glass-surface)",
+          border: "var(--glass-border)",
+        },
+      },
+      backgroundImage: {
+        "gradient-primary": "var(--gradient-primary)",
+        "gradient-secondary": "var(--gradient-secondary)", 
+        "gradient-surface": "var(--gradient-surface)",
+        "gradient-hero": "var(--gradient-hero)",
+      },
+      boxShadow: {
+        "premium": "var(--shadow-premium)",
+        "elegant": "var(--shadow-elegant)",
+        "glow": "var(--shadow-glow)",
+      },
+      backdropBlur: {
+        "xs": "2px",
       },
       borderRadius: {
         lg: "var(--radius)",
