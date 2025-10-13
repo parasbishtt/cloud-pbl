@@ -43,11 +43,15 @@
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "cmdk": "^1.1.1",
+    "cors": "^2.8.5",
     "date-fns": "^3.6.0",
+    "dotenv": "^17.2.3",
     "embla-carousel-react": "^8.6.0",
+    "express": "^5.1.0",
     "framer-motion": "^12.23.19",
     "input-otp": "^1.4.2",
     "lucide-react": "^0.462.0",
+    "mongoose": "^8.19.1",
     "next-themes": "^0.3.0",
     "react": "^18.3.1",
     "react-day-picker": "^8.10.1",
@@ -76,10 +80,24 @@
     "eslint-plugin-react-refresh": "^0.4.20",
     "globals": "^15.15.0",
     "lovable-tagger": "^1.1.9",
+    "nodemon": "^3.1.10",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.8.3",
     "typescript-eslint": "^8.38.0",
     "vite": "^5.4.20"
-  }
+  },
+  "description": "**URL**: https://lovable.dev/projects/f7fe24db-8e06-4678-b296-0aa3f44740a9",
+  "main": "eslint.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parasbishtt/cloud-pbl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parasbishtt/cloud-pbl/issues"
+  },
+  "homepage": "https://github.com/parasbishtt/cloud-pbl#readme"
 }
